@@ -1,1 +1,1 @@
-# mipt-oop
+# C++ MIPT course
